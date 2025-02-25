@@ -78,5 +78,5 @@ DELETE /api/tasks/:id: Delete certain task from the project.
 
 
 ## Invalid Credentials (401 Unauthorized) :<br>
-![Screenshot_11](https://github.com/user-attachments/assets/e22717d2-9d4f-4e73-8702-6569e7f43310)
+![Screenshot_7](https://github.com/user-attachments/assets/e6347c73-bf2f-4e99-a5f6-289b9e375aba)
 
