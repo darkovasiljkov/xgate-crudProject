@@ -1,4 +1,4 @@
-# xGate projecTask
+# xGate Crud Project Task
 
 A simple project management application built with Nodejs and Express. This app allows users to register, log in, and manage their projects and tasks securely through a RESTful API.
 
@@ -33,8 +33,8 @@ A simple project management application built with Nodejs and Express. This app 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/darkovasiljkov/xgate-projecTask.git
-   cd xgate-projecTask
+   git clone https://github.com/darkovasiljkov/xgate-crudProject.git
+   cd xgate-crudProject
    ```
 
 2. **Dependencies**
@@ -71,8 +71,8 @@ DELETE /api/tasks/:id: Delete certain task from the project.
 ```
 
 ## Testing
-- To test this crud application use softwares like Postman or any other where http requests can be checked.
-
+- To test this crud application use softwares like Postman or any other where http requests can be checked. <br>
+# Example :
 ### Correct Credentials (200k Redirect): <br>
 ![image](https://github.com/user-attachments/assets/084aeed2-4cd2-4239-9b74-0fd3661549c9)
 
