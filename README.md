@@ -72,8 +72,9 @@ DELETE /api/tasks/:id: Delete certain task from the project.
 
 ## Testing
 - To test this crud application use softwares like Postman or any other where http requests can be checked. <br>
-# Example :
-### Correct Credentials (200k Redirect): <br>
+
+### Example :
+### Correct Credentials (200k OK): <br>
 ![image](https://github.com/user-attachments/assets/084aeed2-4cd2-4239-9b74-0fd3661549c9)
 
 
